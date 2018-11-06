@@ -1,0 +1,352 @@
+# Translation of Themes - LineDay in Chinese (China)
+# This file is distributed under the same license as the Themes - LineDay package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-20 05:11:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - LineDay\n"
+
+#. Description of the plugin/theme
+msgid "An responsive elegant magazine style WordPress theme based on Twitter Bootstrap and Automattic Underscore(_s). Supporting Font Awesome, multi level dropdown navigation, Schema.org markup."
+msgstr "基于Twitter Bootstrap和Automattic Underscore（_s）的响应式优雅杂志风格的WordPress主题。 支持Font Awesome，多级下拉导航，Schema.org标记。"
+
+#. Theme Name of the plugin/theme
+msgid "LineDay"
+msgstr "LineDay"
+
+#: searchform.php:10
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索&hellip;"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: library/widgets.php:7
+msgid "Sidebar"
+msgstr "边栏"
+
+#: library/underscores/template-tags.php:124
+msgid "Archives"
+msgstr "归档"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: library/underscores/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: library/underscores/template-tags.php:118
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: library/underscores/template-tags.php:115
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: library/underscores/template-tags.php:113
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: library/underscores/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: library/underscores/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: library/underscores/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: library/underscores/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: library/underscores/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: library/underscores/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: library/underscores/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: library/underscores/template-tags.php:96
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: library/underscores/template-tags.php:96
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: library/underscores/template-tags.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: library/underscores/template-tags.php:94
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: library/underscores/template-tags.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: library/underscores/template-tags.php:92
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: library/underscores/template-tags.php:90
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: library/underscores/template-tags.php:88
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: library/underscores/template-tags.php:86
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: library/underscores/template-tags.php:64
+msgid "% Comments"
+msgstr "%条评论"
+
+#: library/underscores/template-tags.php:64
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: library/underscores/template-tags.php:64
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#. translators: used between list items, there is a space after the comma
+#: library/underscores/template-tags.php:47
+#: library/underscores/template-tags.php:54
+msgid ", "
+msgstr "、"
+
+#: library/underscores/extras.php:52
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: library/setup.php:49
+msgid "Primary Menu"
+msgstr "主要菜单"
+
+#: library/nav.php:14
+msgid "The Primary Menu"
+msgstr "主菜单"
+
+#: library/lineday.php:345
+msgid "<i class=\"fa fa-caret-right\"></i>"
+msgstr "<i class=\"fa fa-caret-right\"></i>"
+
+#: library/lineday.php:339
+msgid "<i class=\"fa fa-caret-left\"></i>"
+msgstr "<i class=\"fa fa-caret-left\"></i>"
+
+#: library/lineday.php:334
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: library/lineday.php:313
+msgid "Submit"
+msgstr "提交"
+
+#: library/lineday.php:313
+msgid "Password: "
+msgstr "密码："
+
+#: library/lineday.php:312
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr "这是一篇受密码保护的文章，您需要提供访问密码："
+
+#: library/lineday.php:296
+msgid "Read More"
+msgstr "阅读更多"
+
+#: library/lineday.php:277
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: library/lineday.php:276
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: library/lineday.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: library/lineday.php:136
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: library/lineday.php:132
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">说：</span>"
+
+#: library/lineday.php:115
+msgid "Pingback:"
+msgstr "Pingback 引用通告："
+
+#: library/lineday.php:90
+msgid "Your Comment Here ..."
+msgstr "在这里，填写你的评论..."
+
+#: library/lineday.php:81
+msgid "Your Website"
+msgstr "您的站点"
+
+#: library/lineday.php:80
+msgid "Website"
+msgstr "站点"
+
+#: library/lineday.php:74
+msgid "Your Email"
+msgstr "您的邮箱"
+
+#: library/lineday.php:73
+msgid "Email"
+msgstr "电子邮件"
+
+#: library/lineday.php:67
+msgid "Your Name"
+msgstr "您的名字"
+
+#: library/lineday.php:66
+msgid "Author"
+msgstr "作者"
+
+#: image.php:64
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一篇 <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 早期文章"
+
+#: image.php:34 library/lineday.php:115 library/lineday.php:139
+#: library/underscores/template-tags.php:68
+msgid "Edit"
+msgstr "编辑"
+
+#: image.php:23
+msgid "Published on <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "发表于<span class=\"entry-date\"> <time class=\"entry-date\" datetime=\"%1$s\">%2$s </time> </span> at <a href=\"%3$s\" title=\"链接到全尺寸图片\">%4$s &times; %5$s </a>在<a href=\"%6$s\" title=\"返回到%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "%1$s主题来自%2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#. translators: %s: Name of current post
+#: content.php:30
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:16 content-single.php:24 content.php:37 image.php:55
+msgid "Pages:"
+msgstr "页面："
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: comments.php:39 comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 →"
+
+#: comments.php:38 comments.php:62
+msgid "&larr; Older Comments"
+msgstr "← 早期评论"
+
+#: comments.php:36 comments.php:61
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One Response on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses on &ldquo;%2$s&rdquo;"
+msgstr[0] "在&ldquo;%2$s&rdquo;有%1$s个回应"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "试试在月度归档中寻找。%1$s"
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "常用分类目录"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Author URI of the plugin/theme
+msgid "http://zacklive.com/"
+msgstr "http://zacklive.com/"
+
+#. Author of the plugin/theme
+msgid "Zack"
+msgstr "Zack"
+
+#. Theme URI of the plugin/theme
+msgid "http://zacklive.com/lineday-responsive-magazine-wordpress-theme-bootstrap/"
+msgstr "http://zacklive.com/lineday-responsive-magazine-wordpress-theme-bootstrap/"
