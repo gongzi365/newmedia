@@ -55,7 +55,7 @@
 					$author_uri = 'http://www.zhutibaba.com/';
 				?>
 
-				&copy; <?php echo date("Y"); ?> <a href="<?php echo esc_url( home_url() ); ?>"><?php bloginfo('name'); ?></a> - <?php esc_html_e('主题巴巴原创', 'boke-1'); ?> <a href="<?php echo esc_url( $author_uri ); ?>" target="_blank">WordPress 主题</a>
+                Copyright&copy; <?php echo date("Y"); ?>鄂ICP备18027676号 <!--a href="<?php echo esc_url( home_url() ); ?>"><?php bloginfo('name'); ?></a> - <?php esc_html_e('主题巴巴原创', 'boke-1'); ?> <a href="<?php echo esc_url( $author_uri ); ?>" target="_blank">WordPress 主题</a-->
 
 			</div><!-- .site-info -->
 
