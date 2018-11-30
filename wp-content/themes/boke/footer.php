@@ -56,8 +56,17 @@
 				?>
 
                 Copyright&copy; <?php echo date("Y"); ?>鄂ICP备18027676号 <!--a href="<?php echo esc_url( home_url() ); ?>"><?php bloginfo('name'); ?></a> - <?php esc_html_e('主题巴巴原创', 'boke-1'); ?> <a href="<?php echo esc_url( $author_uri ); ?>" target="_blank">WordPress 主题</a-->
-
-			</div><!-- .site-info -->
+                <script>
+                    var _hmt = _hmt || [];
+                    (function() {
+                        var hm = document.createElement("script");
+                        hm.src = "https://hm.baidu.com/hm.js?01f7e4266e1049acbb16d94206f1e9fc";
+                        var s = document.getElementsByTagName("script")[0];
+                        s.parentNode.insertBefore(hm, s);
+                    })();
+                </script>
+                
+            </div><!-- .site-info -->
 
 			<?php 
 				if ( has_nav_menu( 'footer' ) ) {
