@@ -60,7 +60,7 @@
                     var _hmt = _hmt || [];
                     (function() {
                         var hm = document.createElement("script");
-                        hm.src = "https://hm.baidu.com/hm.js?01f7e4266e1049acbb16d94206f1e9fc";
+                        hm.src = "https://hm.baidu.com/hm.js?b1285f89a7f4b9dd5864455ed9e92d77";
                         var s = document.getElementsByTagName("script")[0];
                         s.parentNode.insertBefore(hm, s);
                     })();
