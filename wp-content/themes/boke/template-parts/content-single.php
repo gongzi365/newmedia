@@ -42,6 +42,22 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
+        <div style="margin:20px;">
+            <!-- 广告开始 -->
+            <script type="text/javascript">
+                (function() {
+                    var s = "_" + Math.random().toString(36).slice(2);
+                    document.write('<div style="" id="' + s + '"></div>');
+                    (window.slotbydup = window.slotbydup || []).push({
+                        id: "u3772672",
+                        container:  s
+                    });
+                })();
+            </script>
+            <!-- 多条广告如下脚本只需引入一次 -->
+            <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer" ></script>
+        </div>
+
 		<?php
 			//if ( has_post_thumbnail() ) :
 			//	the_post_thumbnail('boke_1_post_thumb'); 
@@ -78,20 +94,6 @@
 			);
 		?>
 	</div><!-- .entry-tags -->
-
-    <!-- 广告开始 -->
-    <script type="text/javascript">
-        (function() {
-            var s = "_" + Math.random().toString(36).slice(2);
-            document.write('<div style="" id="' + s + '"></div>');
-            (window.slotbydup = window.slotbydup || []).push({
-                id: "u3772672",
-                container:  s
-            });
-        })();
-    </script>
-    <!-- 多条广告如下脚本只需引入一次 -->
-    <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer" ></script>
 
 </article><!-- #post-## -->
 
@@ -156,3 +158,19 @@
 	// Restore original Post Data.
 	wp_reset_postdata();
 ?>
+
+<div style="margin:20px;">
+    <!-- 广告开始 -->
+    <script type="text/javascript">
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('<div style="" id="' + s + '"></div>');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u3772672",
+                container:  s
+            });
+        })();
+    </script>
+    <!-- 多条广告如下脚本只需引入一次 -->
+    <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer" ></script>
+</div>
